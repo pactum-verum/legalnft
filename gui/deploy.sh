@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: Apache-2.0 and MIT
 
 # From: https://gist.github.com/hellwolf/473d598b7963079e32af98ab168bc78a
 # Notes:
